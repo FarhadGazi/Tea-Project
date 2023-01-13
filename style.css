@@ -1,0 +1,22 @@
+body{
+    background-color: #378ab6 !important; 
+    font-family: 'Rowdies', cursive;
+ }
+ a{
+    text-decoration: none !important;
+    cursor: pointer;
+ }
+ h1{
+    color: white    ;
+    font-family: 'Rowdies', cursive;
+ }
+.btn{
+    cursor: pointer;
+}
+.container img{
+    width: 100px;
+}
+
+.table td {
+    color: white;
+}
